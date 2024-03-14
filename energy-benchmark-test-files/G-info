@@ -1,0 +1,24 @@
+ Run options
+    -T (temp)       298.15   K
+    -M (di- or tri-valent)     1.00e-02   M
+    -K (monovalent)            1.00e-01   M
+          Phosphate charge     -0.822
+          Set q=0 for those phosphates       4
+    -b (box)       60.0000      60.0000      60.0000
+    -s (seed)   15221
+       Radius of gyration     3.383561  A
+
+ Step      1
+        E_BOND                5.4810
+        E_ANGLE               1.8157
+        E_EXCLUDED            0.0000
+        E_NON-NAT_HB          0.0000
+        E_NAT_HB              0.0000
+        E_NON-NAT_STACK       0.0000
+        E_NAT_STACK           0.0000
+        E_Q                  -0.0940
+        E_potential           7.2028
+
+   Speed last      1 steps     1.67e+08    steps / day
+   Overall speed               1.67e+08    steps / day
+   Time remaining       0.0     mins

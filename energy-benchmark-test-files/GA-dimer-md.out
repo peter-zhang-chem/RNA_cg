@@ -1,0 +1,18 @@
+Step      0
+        E_NON-NAT_HB       0.00000000e+00
+        E_NAT_HB           0.00000000e+00
+        E_NON-NAT_STACK   -2.80878662e-02
+        E_NAT_STACK        0.00000000e+00
+        E_electrostatic    4.41958763e-01
+        E_potential        2.18687940e+01
+        Rg      5.31563567e+00
+
+Step    1
+        E_NON-NAT_HB       0.00000000e+00
+        E_NAT_HB           0.00000000e+00
+        E_NON-NAT_STACK   -2.80878662e-02
+        E_NAT_STACK        0.00000000e+00
+        E_electrostatic    4.41958763e-01
+        E_potential        2.18687940e+01
+        Rg       5.31825228e+00  A
+
